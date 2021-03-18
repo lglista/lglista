@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @lglista, call me Lawrence
+- 🦿 I'm currently working for University of Michigan NeuRRoLab on their soon to be open source project NeuRRoVR
 - 👀 I’m interested in Python, Unity, VR, and Command Line Tools
 - 🌱 I’m currently studying CS at the University of Michigan College of Engineering set to graduate May 2021
 - :eye: Looking for full time work after graduation
