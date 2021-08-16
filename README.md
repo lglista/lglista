@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lglista, call me Lawrence
-- 🧬 I'm currently working for University of Michigan NeuRRoLab on their soon to be open source Unity project NeuRRoVR
-- 👨‍💻 In July I will be starting full time as a software developer at ASRC Federal
+- 🧬 I'm currently working full time as a software engineer at ASRC Federal
+- 👨‍💻 Past experience includes working at the University of Michigan NeuRRoLab on their soon to be open source Unity project NeuRRoVR
 - 👀 I’m interested in Python, Unity, VR, and Command Line Tools
 - 👨‍🎓 I’m a University of Michigan Alumni with a Bachelor's Degree in Computer Science through the College of Engineering
 - 📫 Reach me at lawrenceglista@gmail.com
